@@ -1,0 +1,23 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.pytest_cache/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
